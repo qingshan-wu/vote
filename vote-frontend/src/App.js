@@ -58,7 +58,10 @@ function App() {
         <NavBar
           mode="light"
           icon={<Icon type="left" />}
-          onLeftClick={() => console.log('onLeftClick')}
+          onLeftClick={() => {
+            console.log('onLeftClick goback')
+            history.go(-1)
+          }}
           style={{backgroundColor: '#f2f3f6'}}
         >投票
         </NavBar>
