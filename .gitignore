@@ -1,0 +1,13 @@
+/vote-backend/node_modules/
+/vote-backend/workspace.code-workspace
+/vote-backend/build
+
+
+/vote-frontend/node_modules/
+/vote-frontend/srcOldVersion
+
+
+/README_for_self.md
+/backend
+/chattingroom
+/long-polling
