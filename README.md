@@ -15,10 +15,5 @@
   * 前端：React + react-router
   * 后端：Node.js + Express + Sequelize
   
-* 还未实现登陆页面 和 投票细致页面
-
-     * 登陆页面需要通过在地址栏输入/login
-
-     * 登出页面需要通过在地址栏输入/logout
-
-          
+     
+  
